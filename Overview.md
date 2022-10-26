@@ -40,6 +40,5 @@ I'd love to hear from you! Reach out by:
 
 ## :fire: Stats
 
-[![GeoMx2022 Github Stats](https://github-readme-stats.vercel.app/api?username=geomx2022)](https://github.com/geomx2022)  
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=geomx2022&layout=compact)](https://github.com/geomx2022)
+[![GeoMx2022 Github Stats](https://github-readme-stats.vercel.app/api?username=geomx2022)](https://github.com/geomx2022) [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=geomx2022&layout=compact)](https://github.com/geomx2022)
 
