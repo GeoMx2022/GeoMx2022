@@ -46,4 +46,4 @@ I'm a driven and diligent new junior full-stack software developer with a passio
 I'd love to hear from you! Reach out by:  
 * Requesting my CV  
 * Viewing my portfolio projects below  
-* Connecting with me on <a href="www.linkedin.com/in/max-h-294152255"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+* Connecting with me on <a href="www.linkedin.com/in/max-h-294152255">LinkedIn</a>
